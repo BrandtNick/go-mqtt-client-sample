@@ -1,2 +1,3 @@
-# go-mqtt-client-sample
-Go MQTT client sample
+# Go MQTT client sample
+
+Simple MQTT client sample using Paho MQTT.
